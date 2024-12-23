@@ -28,6 +28,20 @@
 		"keepPlayFileKeywords": "",
         "recommend": "1"
 	},{
+		"key": "网盘推送",
+		"name": "💗网盘┃推送",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/网盘推送.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+        "recommend": "1"
+	},{
 		"key": "mogg",
 		"name": "🤹‍♂️木偶┃UC盘",
 		"type": 5,
