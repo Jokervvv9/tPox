@@ -450,6 +450,19 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "wwgz",
+		"name": "🐶旺旺┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/soup/wwgz_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
 		"key": "360ys",
 		"name": "3️⃣360影视┃嗅探",
 		"type": 5,
@@ -581,19 +594,6 @@
 			}
 		}
 	},{
-                "key": "wwgz",
-                "name": "🐶旺旺┃嗅探",
-                "type": 6,
-                "searchable": 1,
-                "filterClass": "",
-                "firstClass": "",
-                "filterPlay": "",
-                "firstPlay": "",
-                "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/soup/wwgz_soup.json",
-                "flagable": 0,
-                "filterPlayFileKeywords": "",
-                "keepPlayFileKeywords": ""
-        },{
 		"name": "黑木耳解析",
 		"type": 0,
 		"url": "https://hoplayer.com/index.html?url=",
