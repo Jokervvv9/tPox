@@ -154,6 +154,20 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
+            "key": "huban",
+            "name": "🤹‍♂️虎斑┃网盘",
+            "type": 5,
+            "searchable": 1,
+            "filterClass": "",
+            "firstClass": "",
+            "filterPlay": "",
+            "firstPlay": "",
+            "ext": "huban.js",
+            "flagable": 0,
+            "filterPlayFileKeywords": "",
+            "keepPlayFileKeywords": "",
+            "selectedPlayer": "0"
+        },{
 		"key": "nanf",
 		"name": "🀁南风短剧┃夸克",
 		"type": 5,
