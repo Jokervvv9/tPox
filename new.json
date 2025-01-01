@@ -40,7 +40,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-        "recommend": "1"
+                "recommend": "1"
 	},{
 		"key": "mogg",
 		"name": "🤹‍♂️木偶┃UC盘",
@@ -140,6 +140,20 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
+		"key": "baipiao",
+		"name": "❈白嫖┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/baipiao.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
 		"key": "ouge",
 		"name": "🏰欧歌┃网盘",
 		"type": 5,
@@ -153,21 +167,77 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
-	},{
-            "key": "huban",
-            "name": "🤹‍♂️虎斑┃网盘",
-            "type": 5,
-            "searchable": 1,
-            "filterClass": "",
-            "firstClass": "",
-            "filterPlay": "",
-            "firstPlay": "",
-            "ext": "huban.js",
-            "flagable": 0,
-            "filterPlayFileKeywords": "",
-            "keepPlayFileKeywords": "",
-            "selectedPlayer": "0"
-        },{
+	 },{
+		"key": "huban",
+		"name": "🤹‍♂️虎斑┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/huban.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	 },{
+		"key": "texiafan",
+		"name": "🌾下饭┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/xiafan.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	 },{
+		"key": "dandanplay",
+		"name": "弹弹play[动漫]",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/dandanplay.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"danmu": "1"
+	 },{
+		"key": "zonghedanmu1",
+		"name": "综合弹幕1",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/danmu_zonghe1.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"danmu": "1"
+	 },{
+		"key": "zonghedanmu2",
+		"name": "综合弹幕2",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/danmu_zonghe2.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"danmu": "1"
+	 },{
 		"key": "nanf",
 		"name": "🀁南风短剧┃夸克",
 		"type": 5,
@@ -401,6 +471,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "tt776b",
+		"name": "🌀风车动漫┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/tt776b_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	 },{
 		"key": "ysgc",
 		"name": "🏭影视工厂┃嗅探",
 		"type": 6,
