@@ -1,8 +1,8 @@
 //观影站点的cookie
-let gygCookie = "替换你的cookie";
+let gygCookie = "BT_cookietime=6cbedBHeWUm6qb73rUP2hQLcDgATA-9fenf1N-iS2Z-57hsYvMfc; vrg_go=1; vrg_sc=f904af1454f8c01b00d31695ff0af1ca";
 
 // 提取夸克网盘链接的数量,不要太多（否则造成读取详情页卡）
-const QUARK_COUNT = 3; 
+const QUARK_COUNT = 0; 
 // 提取 UC 网盘链接的数量,不要太多（否则造成读取详情页卡）
 const UC_COUNT = 3;
 
