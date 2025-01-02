@@ -648,7 +648,7 @@
 		"type": 0,
 		"searchable": 1,
 		"filterClass": "电影片,连续剧,综艺片,动漫片,伦理片,预告片",
-		"firstClass": "国产剧,香港剧,韩国剧,欧美剧,日本剧,台湾剧,国产动漫,日韩动漫,大陆综艺,港台综艺,日韩综艺,欧美综艺",
+		"firstClass": "国产剧,香港剧,国产动漫,伦理片,韩国剧,欧美剧,日本剧,台湾剧,日韩动漫,大陆综艺,港台综艺,日韩综艺,欧美综艺",
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
@@ -669,6 +669,32 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
+	},{
+		"key": "xiaomaomi",
+		"name": "😺小猫咪┃资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "短剧,其他,成人,小破站,资讯,影视资讯,明星资讯,演员,内地明星,港台明星,欧美明星,日韩明星,QQ群9342027",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "1080zyku",
+		"name": "1️⃣1080┃资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "记录片,电影,动漫,福利,倫理片,连续剧,综艺,预告片,体育,汽车,音乐,搞笑,影视",
+		"firstClass": "国产剧,国产动漫,福利,倫理片",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://api.1080zyku.com/inc/api_mac10.php",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
 	},{
 		"key": "yunpan",
 		"name": "夸克云盘┃仅搜索",
