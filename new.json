@@ -722,7 +722,7 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "yisou",
+		"key": "yiso",
 		"name": "夸克易搜┃仅搜索",
 		"type": 5,
 		"searchable": 1,
@@ -730,7 +730,7 @@
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/yisou.js",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/yiso.js",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
