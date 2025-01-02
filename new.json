@@ -26,7 +26,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-        "recommend": "1"
+                "recommend": "1"
 	},{
 		"key": "网盘推送",
 		"name": "💗网盘┃推送",
@@ -292,7 +292,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-        "selectedPlayer":"0"
+                "selectedPlayer":"0"
 	},{
 		"key": "cfkj86",
 		"name": "🥇金牌┃直链",
@@ -306,7 +306,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-        "selectedPlayer":"0"
+                "selectedPlayer":"0"
 	},{
 		"key": "kuyun",
 		"name": "☁️酷云┃直链",
@@ -320,7 +320,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-        "selectedPlayer":"0"
+                "selectedPlayer":"0"
 	},{
 		"key": "zhuifan",
 		"name": "🚗追饭┃直链",
@@ -334,7 +334,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-        "selectedPlayer":"0"
+                "selectedPlayer":"0"
 	},{
 		"key": "xiaopingguo",
 		"name": "🍎苹果┃直链",
@@ -348,7 +348,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-        "selectedPlayer":"1"
+                "selectedPlayer":"1"
 	},{
 		"key": "gzys",
 		"name": "🍉瓜子┃直链",
