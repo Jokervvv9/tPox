@@ -683,7 +683,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
-	},],
+	}],
 	"parses": [{
 		"name": "解析1",
 		"type": 0,
