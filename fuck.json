@@ -750,19 +750,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 		"selectedPlayer": "0"
-	},{
-		"key": "yunpansou",
-		"name": "夸克云盘搜┃仅搜索",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/yunpansou.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
 	}],
 	"parses": [{
 		"name": "解析1",
