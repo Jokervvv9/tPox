@@ -196,6 +196,20 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	 },{
+		"key": "pansearch",
+		"name": "pansearch┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/pansearch2.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
 		"key": "guanying",
 		"name": "📺观影┃网盘",
 		"type": 5,
@@ -205,6 +219,20 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/guanying.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "yiso",
+		"name": "夸克易搜┃仅搜索",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/yiso.js",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
@@ -671,6 +699,32 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
+		"key": "xiaomaomi",
+		"name": "😺小猫咪┃资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "其他,资讯,影视资讯,明星资讯,演员,内地明星,港台明星,欧美明星,日韩明星,QQ群9342027",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "1080zyku",
+		"name": "1️⃣1080┃资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "电影,动漫,连续剧,综艺,预告片,体育,汽车,音乐,搞笑,影视",
+		"firstClass": "国产剧,国产动漫,福利,记录片,倫理片",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://api.1080zyku.com/inc/api_mac10.php",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
 		"key": "yunpan",
 		"name": "夸克云盘┃仅搜索",
 		"type": 5,
@@ -680,6 +734,32 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/yunpan.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "pansou",
+		"name": "夸克盘搜┃仅搜索",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/pansou.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "yunpansou",
+		"name": "夸克云盘搜┃仅搜索",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/yunpansou.js",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
