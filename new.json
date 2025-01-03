@@ -7,7 +7,7 @@
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
-		"firstPlay": "夸克网盘,夸克网盘2",
+		"firstPlay": "UC网盘,夸克网盘,夸克网盘2",
 		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/wogg.js",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
@@ -196,6 +196,34 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	 },{
+		"key": "pansearch",
+		"name": "pansearch┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/pansearch2.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "guanying",
+		"name": "📺观影┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/guanying.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
 		"key": "dandanplay",
 		"name": "弹弹play[动漫]",
 		"type": 5,
@@ -708,34 +736,6 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
-	},{
-		"key": "pansearch",
-		"name": "pansearch┃网盘",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/pansearch2.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},{
-		"key": "guanying",
-		"name": "📺观影┃网盘",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/guanying.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
 	},{
 		"key": "yiso",
 		"name": "夸克易搜┃仅搜索",
