@@ -711,7 +711,7 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	}],
-	"parses": v{
+	"parses": [{
 		"name": "解析1",
 		"type": 0,
 		"url": "https://jx.xmflv.com/?url=",
