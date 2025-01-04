@@ -210,20 +210,6 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
-		"key": "yiso",
-		"name": "夸克易搜┃仅搜索",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/yiso.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},{
 		"key": "dandanplay",
 		"name": "弹弹play[动漫]",
 		"type": 5,
@@ -266,20 +252,6 @@
 		"keepPlayFileKeywords": "",
 		"danmu": "1"
 	 },{
-		"key": "nanf",
-		"name": "🀁南风短剧┃夸克",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/nanf.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},{
 		"key": "bilimv",
 		"name": "🎙MV┃哔哩",
 		"type": 5,
@@ -353,7 +325,7 @@
 		"key": "gzys",
 		"name": "🍉瓜子┃直链",
 		"type": 5,
-		"searchable": 0,
+		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
