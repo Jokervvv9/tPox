@@ -591,6 +591,19 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "1"
 	},{
+		"key": "mifun",
+		"name": "mifun┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/soup/mifun_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+	},{
 		"key": "qimiqimi",
 		"name": "🍘奇米动漫┃嗅探",
 		"type": 6,
