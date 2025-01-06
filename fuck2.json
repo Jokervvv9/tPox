@@ -14,20 +14,6 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
-		"key": "vq",
-		"name": "🐹腾云驾雾┃官网",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "腾云驾雾",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/vq.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
 		"type": 5,
