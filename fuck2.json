@@ -48,7 +48,7 @@
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "http://45.194.32.170:5757/api/采集之王[合]",
+		"ext": "http://127.0.0.1:5757/api/采集之王[合]",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
