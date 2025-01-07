@@ -53,6 +53,19 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "drpyS_荐片",
+		"name": "影视 ┃ 荐片(DS)",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "http://45.194.32.170:5757/api/荐片",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
                 "key": "drpyS_xingya",
 		"name": "影视 ┃ 星芽短剧",
 		"type": 5,
