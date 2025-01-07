@@ -81,20 +81,6 @@
 		"keepPlayFileKeywords": "",
 		"webSite":"http://45.194.32.170:5757/api/OmoFun动漫"
 	},{
-                "key": "drpyS_jianpian",
-		"name": "影视 ┃ 荐片",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
-		"flagable": 1,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"webSite":"http://45.194.32.170:5757/api/荐片"
-	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
 		"type": 5,
