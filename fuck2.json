@@ -27,6 +27,32 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "drpyS_采集之王[合]",
+		"name": "影视 ┃ 采集之王[合]",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "http://45.194.32.170:5757/api/采集之王[合]",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "drpyS_xydj",
+		"name": "影视 ┃ 星芽短剧",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "http://45.194.32.170:5757/api/星芽短剧",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
 		"type": 5,
