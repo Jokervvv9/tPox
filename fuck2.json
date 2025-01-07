@@ -28,7 +28,7 @@
 		"keepPlayFileKeywords": ""
 	},{
 		"key": "drpyS_蓝莓短剧",
-		"name": "drpyS-T4┃蓝莓短剧(DS)",
+		"name": "影视┃蓝莓短剧(DS)",
 		"type": 1,
 		"searchable": 1,
 		"filterClass": "",
@@ -40,33 +40,7 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "drpyS_采集之王[合]",
-		"name": "采集之王[合]",
-		"type": 1,
-		"searchable": 0,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "http://127.0.0.1:5757/api/采集之王[合]",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
-		"key": "星芽短剧",
-		"name": "影视 ┃ 星芽短剧",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "http://45.194.32.170:5757/api/星芽短剧",
-		"flagable": 1,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
-		"key": "腾云驾雾[官]",
+		"key": "drpyS_腾云驾雾[官]",
 		"name": "影视 ┃ 腾云驾雾[官]",
 		"type": 1,
 		"searchable": 1,
@@ -78,6 +52,34 @@
 		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
+	},{
+		"key": "drpyS_采集之王[合]",
+		"name": "影视 ┃ 采集之王[合]",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+		"webSite":"http://45.194.32.170:5757/api/采集之王[合]"
+	},{
+		"key": "drpyS_星芽短剧",
+		"name": "影视 ┃ 星芽短剧",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+		"webSite":"http://45.194.32.170:5757/api/星芽短剧"
 	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
