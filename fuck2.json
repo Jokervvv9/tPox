@@ -40,9 +40,9 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "drpyS_cjzw",
-		"name": "影视 ┃ 采集之王[合]",
-		"type": 5,
+		"key": "drpyS_采集之王[合]",
+		"name": "采集之王[合]",
+		"type": 1,
 		"searchable": 0,
 		"filterClass": "",
 		"firstClass": "",
@@ -55,7 +55,7 @@
 	},{
 		"key": "星芽短剧",
 		"name": "影视 ┃ 星芽短剧",
-		"type": 5,
+		"type": 1,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
