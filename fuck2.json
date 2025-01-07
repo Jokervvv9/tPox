@@ -53,6 +53,19 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "drpyS_OmoFun",
+		"name": "动漫┃OmoFun",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "http://45.194.32.170:5757/api/OmoFun动漫",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
                 "key": "drpyS_xingya",
 		"name": "影视 ┃ 星芽短剧",
 		"type": 5,
