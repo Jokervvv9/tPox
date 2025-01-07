@@ -53,7 +53,7 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-                "key": "daozhangxingya",
+                "key": "drpyS_xingya",
 		"name": "影视 ┃ 星芽短剧",
 		"type": 5,
 		"searchable": 1,
@@ -67,8 +67,8 @@
 		"keepPlayFileKeywords": "",
 		"webSite":"http://45.194.32.170:5757/api/星芽短剧"
 	},{
-                "key": "daozhangNyafun",
-		"name": "道长漫┃Nyafun",
+                "key": "drpyS_Nyafun",
+		"name": "动漫┃Nyafun",
 		"type": 5,
 		"searchable": 1,
 		"filterClass": "",
@@ -81,8 +81,8 @@
 		"keepPlayFileKeywords": "",
 		"webSite":"http://45.194.32.170:5757/api/Nyafun[漫]"
 	},{
-                "key": "daozhangOmoFun",
-		"name": "道长漫┃OmoFun",
+                "key": "drpyS_OmoFun",
+		"name": "动漫┃OmoFun",
 		"type": 5,
 		"searchable": 1,
 		"filterClass": "",
