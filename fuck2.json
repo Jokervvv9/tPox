@@ -67,20 +67,6 @@
 		"keepPlayFileKeywords": "",
 		"webSite":"http://45.194.32.170:5757/api/星芽短剧"
 	},{
-                "key": "drpyS_Nyafun",
-		"name": "动漫┃Nyafun",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"webSite":"http://45.194.32.170:5757/api/Nyafun[漫]"
-	},{
                 "key": "drpyS_OmoFun",
 		"name": "动漫┃OmoFun",
 		"type": 5,
@@ -93,7 +79,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-		"webSite":"http://45.194.32.170:5757/api/OmoFun[漫]"
+		"webSite":"http://45.194.32.170:5757/api/OmoFun动漫"
 	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
