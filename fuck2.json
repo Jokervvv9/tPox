@@ -27,10 +27,23 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "drpyS_cjzw",
-		"name": "影视 ┃ 采集之王[合]",
+		"key": "drpyS_蓝莓短剧",
+		"name": "drpyS-T4┃蓝莓短剧(DS)",
 		"type": 1,
 		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "http://45.194.32.170:5757/api/蓝莓短剧",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "drpyS_cjzw",
+		"name": "影视 ┃ 采集之王[合]",
+		"type": 5,
+		"searchable": 0,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
@@ -42,7 +55,7 @@
 	},{
 		"key": "星芽短剧",
 		"name": "影视 ┃ 星芽短剧",
-		"type": 1,
+		"type": 5,
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
