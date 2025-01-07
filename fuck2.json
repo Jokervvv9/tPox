@@ -90,7 +90,7 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
-		"flagable": 0,
+		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"webSite":"http://45.194.32.170:5757/api/荐片"
