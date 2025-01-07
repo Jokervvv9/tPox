@@ -40,7 +40,7 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "drpyS_xydj",
+		"key": "星芽短剧",
 		"name": "影视 ┃ 星芽短剧",
 		"type": 1,
 		"searchable": 1,
@@ -53,7 +53,7 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "drpyS_腾云驾雾[官]",
+		"key": "腾云驾雾[官]",
 		"name": "影视 ┃ 腾云驾雾[官]",
 		"type": 1,
 		"searchable": 1,
@@ -101,7 +101,7 @@
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
-		"firstPlay": "",
+		"firstPlay": "UC网盘",
 		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/mogg.js",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
