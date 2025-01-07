@@ -79,7 +79,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-		"webSite":"http://45.194.32.170:5757/api/Nyafun"
+		"webSite":"http://45.194.32.170:5757/api/Nyafun[漫]"
 	},{
                 "key": "daozhangOmoFun",
 		"name": "道长漫┃OmoFun",
@@ -93,7 +93,7 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-		"webSite":"http://45.194.32.170:5757/api/OmoFun"
+		"webSite":"http://45.194.32.170:5757/api/OmoFun[漫]"
 	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
