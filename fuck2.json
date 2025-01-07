@@ -53,6 +53,19 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "drpyS_腾云驾雾[官]",
+		"name": "影视 ┃ 腾云驾雾[官]",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "http://45.194.32.170:5757/api/腾云驾雾[官]",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
 		"type": 5,
