@@ -62,7 +62,7 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "http://45.194.32.170:5757/api/星芽短剧",
-		"flagable": 0,
+		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
@@ -75,7 +75,7 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "http://45.194.32.170:5757/api/腾云驾雾[官]",
-		"flagable": 0,
+		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
