@@ -62,7 +62,7 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://dr.009022.xyz/api/x草榴社区[密]",
-		"flagable": 0,
+		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
@@ -75,7 +75,7 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://dr.009022.xyz/api/樱漫[漫]",
-		"flagable": 0,
+		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
@@ -102,7 +102,7 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
-		"flagable": 0,
+		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"webSite":"https://dr.009022.xyz/api/OmoFun[漫]"
