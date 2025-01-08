@@ -53,23 +53,10 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "drpyS_荐片",
-		"name": "影视┃荐片",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://dr.009022.xyz/api/荐片",
-		"flagable": 1,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
 		"key": "drpyS_x草榴社区[密]",
 		"name": "影视┃x草榴社区[密](DS)",
 		"type": 1,
-		"searchable": 1,
+		"searchable": 2,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
@@ -79,15 +66,15 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "drpyS_樱漫[漫]",
-		"name": "动漫┃樱漫[漫](DS)",
+		"key": "drpyS_xvideos[密]",
+		"name": "影视┃xvideos[密]",
 		"type": 1,
-		"searchable": 1,
+		"searchable": 2,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
 		"firstPlay": "",
-		"ext": "https://dr.009022.xyz/api/樱漫[漫]",
+		"ext": "https://dr.009022.xyz/api/xvideos[密]",
 		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
@@ -105,34 +92,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"webSite":"http://45.194.32.170:5757/api/星芽短剧"
-	},{
-                "key": "drpyS_OmoFun",
-		"name": "动漫┃OmoFun",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
-		"flagable": 1,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"webSite":"https://dr.009022.xyz/api/OmoFun[漫]"
-	},{
-                "key": "drpyS_caiwangadult",
-		"name": "影视 ┃ 采王成人[密](DS)",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"webSite":"https://dr.009022.xyz/api/采集之王[合]"
 	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
