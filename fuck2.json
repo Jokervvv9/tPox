@@ -56,7 +56,7 @@
 		"key": "drpyS_x草榴社区[密]",
 		"name": "影视┃x草榴社区[密](DS)",
 		"type": 1,
-		"searchable": 2,
+		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
@@ -92,6 +92,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"webSite":"http://45.194.32.170:5757/api/星芽短剧"
+	},{
+                "key": "drpyS_caoliu",
+		"name": "x草榴社区",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"webSite":"http://45.194.32.170:5757/api/x草榴社区[密]"
 	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
