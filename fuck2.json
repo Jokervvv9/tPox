@@ -53,6 +53,32 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "drpyS_采王成人[密]",
+		"name": "影视┃采王成人[密](DS)",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://dr.009022.xyz/api/采集之王[合]",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "drpyS_x草榴社区[密]",
+		"name": "影视┃x草榴社区[密](DS)",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://dr.009022.xyz/api/x草榴社区[密]",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
                 "key": "drpyS_xingya",
 		"name": "影视 ┃ 星芽短剧",
 		"type": 5,
