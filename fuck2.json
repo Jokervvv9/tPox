@@ -53,6 +53,19 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "drpyS_荐片",
+		"name": "影视┃荐片",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://dr.009022.xyz/api/荐片",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
 		"key": "drpyS_x草榴社区[密]",
 		"name": "影视┃x草榴社区[密](DS)",
 		"type": 1,
