@@ -53,19 +53,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "drpyS_采王成人[密]",
-		"name": "影视┃采王成人[密](DS)",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://dr.009022.xyz/api/采集之王[合]/H4sIAAAAAAAAA9PT088qzs/Tf9ne/nJ2W/TT9W2xL+fOfNbQqAcSVjFUAQAd5YgpIQAAAA==",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
 		"key": "drpyS_x草榴社区[密]",
 		"name": "影视┃x草榴社区[密](DS)",
 		"type": 1,
@@ -75,6 +62,19 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://dr.009022.xyz/api/x草榴社区[密]",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "drpyS_樱漫[漫]",
+		"name": "动漫┃樱漫[漫](DS)",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://dr.009022.xyz/api/樱漫[漫]",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
@@ -105,7 +105,21 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-		"webSite":"http://45.194.32.170:5757/api/OmoFun动漫"
+		"webSite":"https://dr.009022.xyz/api/OmoFun[漫]"
+	},{
+                "key": "drpyS_caiwangadult",
+		"name": "影视 ┃ 采王成人[密](DS)",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"webSite":"https://dr.009022.xyz/api/采集之王[合]"
 	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
