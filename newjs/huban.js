@@ -1,4 +1,4 @@
-const webSite = 'https://wp.huban.xyz';
+const webSite = 'http://45.207.212.215:12121';
 
   function newfetch(url, options) {
     options = options || {};
