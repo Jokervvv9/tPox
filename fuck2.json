@@ -81,6 +81,20 @@
 		"keepPlayFileKeywords": "",
 		"webSite":"http://45.194.32.170:5757/api/星芽短剧"
 	},{
+                "key": "drpyS_美颜怪[擦]",
+		"name": "影视美颜怪[擦]",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"webSite":"https://dr.009022.xyz/api/美颜怪[擦]"
+	},{
 		"key": "aqyiys",
 		"name": "🥝奇奇爱┃官",
 		"type": 5,
@@ -94,6 +108,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"webSite": "http://drpys.540734621.xyz:31038/api/奇珍异兽[官]?pwd=yydffxz"
+	},{
+		"key": "meiyanguai",
+		"name": "美颜怪",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"webSite": "http://drpys.540734621.xyz:31038/api/美颜怪[擦]?pwd=yydffxz"
 	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
