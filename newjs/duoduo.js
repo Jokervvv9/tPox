@@ -1,4 +1,4 @@
-const webSite= 'https://tv.yydsys.top';
+const webSite= 'https://tv.yydsys.cc';
    
    function newfetch(url, options) {
        options = options || {};
