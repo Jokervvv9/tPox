@@ -137,6 +137,20 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
+		"key": "mihdr",
+		"name": "💯至臻┃夸克",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/mihdr.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
 		"key": "duoduo",
 		"name": "🐚多多┃网盘",
 		"type": 5,
@@ -249,6 +263,20 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
+		"key": "yiso",
+		"name": "夸克易搜┃仅搜索",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/yiso.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
 		"key": "dandanplay",
 		"name": "弹弹play[动漫]",
 		"type": 5,
@@ -291,6 +319,34 @@
 		"keepPlayFileKeywords": "",
 		"danmu": "1"
 	 },{
+		"key": "nanf",
+		"name": "🀁南风短剧┃夸克",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/nanf.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "cloud189",
+		"name": "🐋雷鲸┃天翼",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/189.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
 		"key": "bilimv",
 		"name": "🎙MV┃哔哩",
 		"type": 5,
