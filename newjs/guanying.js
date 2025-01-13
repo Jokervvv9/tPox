@@ -2,7 +2,7 @@
 let gygCookie = "vrg_go=1; vrg_sc=f008b425710275e586b64287b09a1a16; BT_auth=a89f92h8fwIR74EI6-ryil-zbUYgqB8qxSpOKUkO-TCb6NwN7csjTl5JlZAp2HV8oO4HTOJb3JPDn-9LzQnEbYnoetqAvLECiDtHaGnNgx7sBTzUSvGoYHQHrhKCuR_rijn4a5rYgTX9Gw6ediX0E5brIML5iU7MRqLyOFFsIJxo3QSTvCJP; BT_cookietime=3f1b1KkG1xEDYlin1YAsrE7tUotcO8BDYWVfu75k_zm2n06NUpXn; PHPSESSID=c2nagd1jbg41h1mtlqksdsbnoq; ";
 
 // 提取夸克网盘链接的数量,不要太多（否则造成读取详情页卡）
-const QUARK_COUNT = 0; 
+const QUARK_COUNT = 3; 
 // 提取 UC 网盘链接的数量,不要太多（否则造成读取详情页卡）
 const UC_COUNT = 3;
 
