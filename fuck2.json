@@ -904,6 +904,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "官源综合",
+		"name": "官源综合",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/综合采集.js",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
 		"key": "ruyizy",
 		"name": "😄如意┃资源",
 		"type": 0,
