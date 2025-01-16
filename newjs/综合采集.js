@@ -10,13 +10,13 @@ const webSite = {
     {
       "name": "红牛资源",
       "url": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "filter_tags": ["体育赛事", "伦理片", "电影", "连续剧"],
+      "filter_tags": ["体育赛事", "电影", "连续剧"],
       "prepend_classes": ["国产剧", "港澳剧"]  // 前置分类
     },
     {
       "name": "量子资源",
       "url": "http://cj.lziapi.com/api.php/provide/vod/",
-      "filter_tags": ["伦理片", "电影片", "连续剧", "综艺片", "动漫片"],
+      "filter_tags": ["电影片", "连续剧", "综艺片", "动漫片"],
       "prepend_classes": ["国产剧", "香港剧"]  // 前置分类
     }
   ]
