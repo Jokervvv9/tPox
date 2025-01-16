@@ -347,6 +347,20 @@
 		"keepPlayFileKeywords": "",
 		"danmu": "1"
 	 },{
+		"key": "zonghedanmu3",
+		"name": "综合[三接口并发]",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/danmu_zonghe3.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"danmu":"1"
+	},{
 		"key": "nanf",
 		"name": "🀁南风短剧┃夸克",
 		"type": 5,
