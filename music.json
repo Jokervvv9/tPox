@@ -14,6 +14,20 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "2"
 	},{
+		"key": "爱听书",
+		"name": "爱听书",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/爱听书.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ".m4a,.mp3",
+		"selectedPlayer": "2"
+	},{
 		"key": "6yueting",
 		"name": "6️⃣六月┃听书",
 		"type": 5,
