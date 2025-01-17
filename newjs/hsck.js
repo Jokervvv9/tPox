@@ -1,6 +1,6 @@
 
 
-const webSite = 'http://6909ck.cc/';
+const webSite = 'http://huangsecangku.net/';
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36';
 let cookie = '';
 
