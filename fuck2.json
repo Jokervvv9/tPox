@@ -417,6 +417,19 @@
 		"keepPlayFileKeywords": "",
                 "selectedPlayer":"0"
 	},{
+		"key": "4k影视",
+		"name": "4k影视┃直链",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/4k影视2.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
 		"key": "hsck",
 		"name": "hsck",
 		"type": 5,
