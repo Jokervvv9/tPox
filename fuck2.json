@@ -403,20 +403,6 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
-		"key": "cfkj86",
-		"name": "🥇金牌┃直链",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/jinpai.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-                "selectedPlayer":"0"
-	},{
 		"key": "4k影视",
 		"name": "4k影视┃直链",
 		"type": 5,
@@ -499,20 +485,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
                 "selectedPlayer":"1"
-	},{
-		"key": "gzys",
-		"name": "🍉瓜子┃直链",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/gzys.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
 	},{
 		"key": "gzys",
 		"name": "🍉瓜子┃直链1",
