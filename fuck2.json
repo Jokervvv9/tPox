@@ -731,6 +731,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "freeok",
+		"name": "freeok┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "OK自营5",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/soup/freeok_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0","webJS":"KGZ1bmN0aW9uKCl7CiAgICAgICAgdmFyIHBhcmVudEVsZW1lbnQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncGxheWxlZnQnKTsKICAgICAgICB2YXIgaWZyYW1lID0gcGFyZW50RWxlbWVudC5xdWVyeVNlbGVjdG9yKCdpZnJhbWUnKTsKICAgICAgICB2YXIgaWZyYW1lRG9jdW1lbnQgPSBpZnJhbWUuY29udGVudERvY3VtZW50OwogICAgICAgIHZhciBzdGFydEJ1dHRvbiA9IGlmcmFtZURvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzdGFydCcpOwogICAgICAgIHN0YXJ0QnV0dG9uLmNsaWNrKCk7CiAgICB9KSgpOw=="
+ },{
 		"key": "真不卡",
 		"name": "真不卡┃嗅探",
 		"type": 6,
