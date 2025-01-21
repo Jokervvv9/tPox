@@ -235,20 +235,6 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	 },{
-		"key": "huban",
-		"name": "🤹‍♂️虎斑┃网盘",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "UC网盘",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/huban.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	 },{
 		"key": "texiafan",
 		"name": "🌾下饭┃网盘",
 		"type": 5,
