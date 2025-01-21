@@ -109,6 +109,20 @@
 		"keepPlayFileKeywords": "",
 		"webSite": "http://drpys.540734621.xyz:31038/api/美颜怪[擦]?pwd=yydffxz"
 	},{
+		"key": "Kimivod",
+		"name": "Kimivod",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/测试模版.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"webSite":"https://kimivod.com/vod/show/id/{cateId}/page/{catePg}.html||https://cn.kimivod.com/search.php?searchword={wd}||2#电影,1#电视剧,4#综艺,3#动漫,39#短剧"
+	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
 		"type": 5,
