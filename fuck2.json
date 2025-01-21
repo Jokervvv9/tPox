@@ -109,6 +109,20 @@
 		"keepPlayFileKeywords": "",
 		"webSite": "http://drpys.540734621.xyz:31038/api/美颜怪[擦]?pwd=yydffxz"
 	},{
+            "key": "zjuys",
+            "name": "追剧影视",
+            "type": 5,
+            "searchable": 1,
+            "filterClass": "",
+            "firstClass": "",
+            "filterPlay": "",
+            "firstPlay": "",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/测试模版.js",
+            "flagable": 0,
+            "filterPlayFileKeywords": "",
+            "keepPlayFileKeywords": "",
+             "webSite":"https://www.zjuys.com/vod/show/id/{cateId}/page/{catePg}---.html||https://www.zjuys.com/detail/{wd}-------------.html||1#电影,2#电视剧,3#综艺,4#动漫"
+      },{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
 		"type": 5,
