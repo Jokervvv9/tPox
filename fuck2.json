@@ -500,20 +500,6 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
-		"key": "cfkj86",
-		"name": "🥇金牌┃直链",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/jinpai.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-                "selectedPlayer":"0"
-	},{
 		"key": "qiyou",
 		"name": "🌞奇优┃直链",
 		"type": 5,
@@ -584,6 +570,19 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
+		"key": "freeHD",
+		"name": "freeHD┃嗅探",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/freehd.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",    "webJS":"KGZ1bmN0aW9uKCl7DQogICAgICAgIHZhciBwYXJlbnRFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3BsYXlsZWZ0Jyk7DQogICAgICAgIHZhciBpZnJhbWUgPSBwYXJlbnRFbGVtZW50LnF1ZXJ5U2VsZWN0b3IoJ2lmcmFtZScpOw0KICAgICAgICB2YXIgaWZyYW1lRG9jdW1lbnQgPSBpZnJhbWUuY29udGVudERvY3VtZW50Ow0KICAgICAgICB2YXIgc3RhcnRCdXR0b24gPSBpZnJhbWVEb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcuc3dhbC1idXR0b24uc3dhbC1idXR0b24tLWNvbmZpcm0nKTsNCiAgICAgICAgc3RhcnRCdXR0b24uY2xpY2soKTsNCiAgICB9KSgpOw=="
+	},{
 		"key": "欧乐嗅探",
 		"name": "😁欧乐┃嗅探",
 		"type": 6,
@@ -622,20 +621,6 @@
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
-	},{
-		"key": "duboku",
-		"name": "独播库┃嗅探",
-		"type": 6,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/soup/duboku.json",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"webJS":"KGZ1bmN0aW9uICgpIHsNCiAgICAvLyC78cihuLjUqsvYus0gaWZyYW1lDQogICAgdmFyIHBhcmVudEVsZW1lbnQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncGxheWxlZnQnKTsNCiAgICBpZiAoIXBhcmVudEVsZW1lbnQpIHsNCiAgICAgICAgY29uc29sZS5lcnJvcignuLjUqsvYzrTV0rW9Jyk7DQogICAgICAgIHJldHVybjsNCiAgICB9DQoNCiAgICB2YXIgaWZyYW1lID0gcGFyZW50RWxlbWVudC5xdWVyeVNlbGVjdG9yKCdpZnJhbWUnKTsNCiAgICBpZiAoIWlmcmFtZSkgew0KICAgICAgICBjb25zb2xlLmVycm9yKCdpZnJhbWUgzrTV0rW9Jyk7DQogICAgICAgIHJldHVybjsNCiAgICB9DQoNCiAgICAvLyDIt7GjIGlmcmFtZSDS0bzT1NjN6rPJDQogICAgaWZyYW1lLm9ubG9hZCA9IGZ1bmN0aW9uICgpIHsNCiAgICAgICAgdHJ5IHsNCiAgICAgICAgICAgIC8vILvxyKEgaWZyYW1lILXExNqyv87EtbUNCiAgICAgICAgICAgIHZhciBpZnJhbWVEb2N1bWVudCA9IGlmcmFtZS5jb250ZW50RG9jdW1lbnQgfHwgaWZyYW1lLmNvbnRlbnRXaW5kb3cuZG9jdW1lbnQ7DQoNCiAgICAgICAgICAgIC8vILLp1dKwtMWlsqK147v3DQogICAgICAgICAgICB2YXIgc3RhcnRCdXR0b24gPSBpZnJhbWVEb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcudmpzLWJpZy1wbGF5LWJ1dHRvbicpOw0KICAgICAgICAgICAgaWYgKHN0YXJ0QnV0dG9uKSB7DQogICAgICAgICAgICAgICAgc3RhcnRCdXR0b24uY2xpY2soKTsNCiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnsLTFpbXju/ezybmmJyk7DQogICAgICAgICAgICB9IGVsc2Ugew0KICAgICAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoJ7C0xaXOtNXStb0nKTsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfSBjYXRjaCAoZXJyb3IpIHsNCiAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoJ7fDzsogaWZyYW1lIMTayN3KsbP2tO2jrL/JxNzKx7/n0/LOysziOicsIGVycm9yKTsNCiAgICAgICAgfQ0KICAgIH07DQoNCiAgICAvLyDI57n7IGlmcmFtZSDS0b6tvNPU2M3qs8mjrNaxvdO0pbeiteO79w0KICAgIGlmIChpZnJhbWUuY29udGVudERvY3VtZW50ICYmIGlmcmFtZS5jb250ZW50RG9jdW1lbnQucmVhZHlTdGF0ZSA9PT0gJ2NvbXBsZXRlJykgew0KICAgICAgICBpZnJhbWUub25sb2FkKCk7DQogICAgfQ0KfSkoKTs="
 	},{
 		"key": "美益达",
 		"name": "美益达┃嗅探",
