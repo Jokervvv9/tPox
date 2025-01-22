@@ -1,6 +1,6 @@
 ﻿
 
-const webSite = 'https://missav.ws/';
+const webSite = 'https://missav.ws/dm10/cn';
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36';
 let cookie = '';
 
@@ -94,19 +94,19 @@ async function homeContent() {
         let list = [];
         let allClass = [
             {
-                type_id: 'dm514',
+                type_id: 'dm514/cn/new',
                 type_name: '最近更新',
             },
             {
-                type_id: 'dm562',
+                type_id: 'dm562/cn/release',
                 type_name: '新作上市',
             },
             {
-                type_id: 'dm620',
+                type_id: 'dm620/cn/uncensored-leak',
                 type_name: '無碼流出',
             },
             {
-                type_id: 'dm96',
+                type_id: 'dm96/cn/fc2',
                 type_name: '無碼FC2',
             },
             {
