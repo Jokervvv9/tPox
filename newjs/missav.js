@@ -110,11 +110,11 @@ async function homeContent() {
                 type_name: '無碼FC2',
             },
             {
-                type_id: 'dm256',
+                type_id: 'dm256/cn/monthly-hot',
                 type_name: '本月熱門',
             },
             {
-                type_id: 'dm34',
+                type_id: 'dm34/cn/madou',
                 type_name: '麻豆傳媒',
             },
             {
