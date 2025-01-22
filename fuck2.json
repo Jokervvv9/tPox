@@ -430,6 +430,20 @@
 		"keepPlayFileKeywords": "",
                 "selectedPlayer":"0"
 	},{
+		"key": "missav",
+		"name": "missav",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/missav.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+                "selectedPlayer":"0"
+	},{
 		"key": "libvio",
 		"name": "🌏libvio|不卡",
 		"type": 5,
