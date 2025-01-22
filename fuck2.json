@@ -583,6 +583,19 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",    "webJS":"KGZ1bmN0aW9uKCl7DQogICAgICAgIHZhciBwYXJlbnRFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3BsYXlsZWZ0Jyk7DQogICAgICAgIHZhciBpZnJhbWUgPSBwYXJlbnRFbGVtZW50LnF1ZXJ5U2VsZWN0b3IoJ2lmcmFtZScpOw0KICAgICAgICB2YXIgaWZyYW1lRG9jdW1lbnQgPSBpZnJhbWUuY29udGVudERvY3VtZW50Ow0KICAgICAgICB2YXIgc3RhcnRCdXR0b24gPSBpZnJhbWVEb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcuc3dhbC1idXR0b24uc3dhbC1idXR0b24tLWNvbmZpcm0nKTsNCiAgICAgICAgc3RhcnRCdXR0b24uY2xpY2soKTsNCiAgICB9KSgpOw=="
 	},{
+		"key": "acgpty",
+		"name": "次元派对动漫┃嗅探",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/acgpty.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",    "webJS":"KGZ1bmN0aW9uKCl7DQogICAgICAgIHZhciBwYXJlbnRFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3BsYXlsZWZ0Jyk7DQogICAgICAgIHZhciBpZnJhbWUgPSBwYXJlbnRFbGVtZW50LnF1ZXJ5U2VsZWN0b3IoJ2lmcmFtZScpOw0KICAgICAgICB2YXIgaWZyYW1lRG9jdW1lbnQgPSBpZnJhbWUuY29udGVudERvY3VtZW50Ow0KICAgICAgICB2YXIgc3RhcnRCdXR0b24gPSBpZnJhbWVEb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcuc3dhbC1idXR0b24uc3dhbC1idXR0b24tLWNvbmZpcm0nKTsNCiAgICAgICAgc3RhcnRCdXR0b24uY2xpY2soKTsNCiAgICB9KSgpOw=="
+	},{
 		"key": "欧乐嗅探",
 		"name": "😁欧乐┃嗅探",
 		"type": 6,
