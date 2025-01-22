@@ -15,7 +15,7 @@
 		"selectedPlayer": "0"
 	},{
 		"key": "chok",
-		"name": "chok影视",
+		"name": "chok影视┃QR佬",
 		"type": 5,
 		"searchable": 1,
 		"filterClass": "",
@@ -27,6 +27,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"webSite":"https://www.chok8.vip/vodshow/{cateId}-----------.html||https://www.chok8.vip/vodsearch/-------------.html?wd={wd}&submit=||dianying#电影,lianxuju#电视剧,zongyi#综艺,dongman#动漫"
+	},{
+		"key": "liuguang",
+		"name": "🚂流光 -JACK佬┃嗅探",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/测试模版.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"webSite":"https://www.gyf.lol/index.php/vod/show/id/{cateId}/page/{catePg}.html||https://www.gyf.lol/index.php/vod/search{wd}.html||1#电影,2#剧集,4#动漫,21#短剧"
 	},{
 		"key": "tgsou",
 		"name": "tgsou",
