@@ -123,20 +123,6 @@
 		"keepPlayFileKeywords": "",
 		"webSite": "http://45.204.193.33:9097/api/奇珍异兽[官]?pwd=dzyyds"
 	},{
-		"key": "drpyS_大嫂TV[密]",
-		"name": "大嫂TV[密]",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
-		"flagable": 1,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"webSite": "https://dr.009022.xyz/api/大嫂TV[密]"
-	},{
 		"key": "meiyanguai",
 		"name": "🥝美颜怪",
 		"type": 5,
@@ -150,6 +136,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"webSite": "http://45.204.193.33:9097/api/美颜怪[擦]?pwd=dzyyds"
+	},{
+		"key": "drpyS_采王zy[密]",
+		"name": "采王zy[密]",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/Jokervvv9/tBox/refs/heads/main/newjs/buye_daozhang.js",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"webSite": "http://45.204.193.33:9097/api/采集之王[合]?pwd=dzyyds"
 	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
