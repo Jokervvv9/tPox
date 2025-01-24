@@ -110,7 +110,7 @@
 		"webSite":"http://45.204.193.33:9097/api/星芽短剧?pwd=dzyyds"
 	},{
 		"key": "aqyiys",
-		"name": "🥝奇奇爱┃官",
+		"name": "🥝奇珍异兽┃官",
 		"type": 5,
 		"searchable": 1,
 		"filterClass": "",
@@ -149,7 +149,7 @@
 		"flagable": 1,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
-		"webSite": "http://45.204.193.33:9097/api/采集之王[合]?pwd=dzyyds"
+		"webSite": "http://45.204.193.33:9097/api/采集之王[合]?pwd=dzyyds","ext":"H4sIAAAAAAAAA9PT088qzs/Tf9ne/nJ2W3RVZezLuTOfNTTqgURVDAGu/MCKHwAAAA=="
 	},{
 		"key": "douban",
 		"name": "👍豆瓣┃推荐",
