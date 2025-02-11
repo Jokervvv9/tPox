@@ -1,4 +1,4 @@
-const webSite = 'https://t.me/s/';
+const webSite = 'https://tgsou.651156.xyz';
 
 const customText = {
     'UC网盘': "ucpanpan",
