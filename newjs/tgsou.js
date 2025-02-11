@@ -1,12 +1,11 @@
 const webSite = 'https://t.me/s/';
 
 const customText = {
-    'UC网盘': "ucpanpan",
+    'UC网盘资源': "ucpanpan",
     '夸克云盘盘': "kuakeyun",
     '夸克云盘综合': "Quark_Movies",
     'UC夸克资源': "ucquark",
     'UC分享': "ucshare",
-    '115影视': "guaguale115",
 };
 
 
