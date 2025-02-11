@@ -1,4 +1,4 @@
-const webSite = 'https://www.4kvm.tv';
+const webSite = 'https://4k-av.com';
 
 
 
