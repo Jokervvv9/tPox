@@ -12,6 +12,9 @@ const customText = {
     '栽花云': "zaihuayun",
     '网盘收藏': "yunpanshare",
     '奥斯卡': "Oscar_4Kmovies",
+    '123': "xx123pan",
+    '115': "guaguale115",
+    'PikPak': "PikPakShareChannel",
 };
 
 
