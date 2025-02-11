@@ -1,5 +1,5 @@
 //观影站点的cookie
-let gygCookie = "vrg_go=1; vrg_sc=f008b425710275e586b64287b09a1a16; BT_auth=a89f92h8fwIR74EI6-ryil-zbUYgqB8qxSpOKUkO-TCb6NwN7csjTl5JlZAp2HV8oO4HTOJb3JPDn-9LzQnEbYnoetqAvLECiDtHaGnNgx7sBTzUSvGoYHQHrhKCuR_rijn4a5rYgTX9Gw6ediX0E5brIML5iU7MRqLyOFFsIJxo3QSTvCJP; BT_cookietime=3f1b1KkG1xEDYlin1YAsrE7tUotcO8BDYWVfu75k_zm2n06NUpXn; PHPSESSID=c2nagd1jbg41h1mtlqksdsbnoq; ";
+let gygCookie = "BT_auth=294e2HMo92ICQ4dFxuqlsYZ4hWbc3-ztaX-74zZ3ze-bn7AsMJvEVPI9zyV2S1EQED2-4cR6pWBynjc-Wcjzsgv54ukuTlSMudVUi9yKF2ixsZIPdxID0Bvq36Fe5gbrcPekWHWlrrpoaAeh1Cj_jy1aKYk9d9Yief2dVtyETcGhaAKZxA7z; BT_cookietime=87140rw-98K45sHLPoU8FI4tqCdyHY3Am0LcKUbpY_IPKp16nwFX; vrg_sc=3f8c8f3af725750ed8efbf252ca1ea26; vrg_go=1";
 
 // 提取夸克网盘链接的数量,不要太多（否则造成读取详情页卡）
 const QUARK_COUNT = 2; 
