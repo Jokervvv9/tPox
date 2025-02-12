@@ -8,13 +8,8 @@ const customText = {
     'UC网盘': "ucpanpan",
     '资源宇宙': "tgsearchers",
     '肯德基资源站': "XiangxiuNB",
-    '云盘盘': "yunpanpan",
-    '栽花云': "zaihuayun",
     '网盘收藏': "yunpanshare",
-    '奥斯卡': "Oscar_4Kmovies",
-    '123': "xx123pan",
-    '115': "guaguale115",
-    'PikPak': "PikPakShareChannel",
+    '奥斯卡': "Oscar_4Kmovies",   
 };
 
 
