@@ -1,4 +1,4 @@
-const webSite = 'http://www.mucpan.cc';
+const webSite = 'http://54271.fun';
  
  function newfetch(url, options) {
      options = options || {};
