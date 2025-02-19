@@ -9,7 +9,8 @@ const customText = {
     '资源宇宙': "tgsearchers",
     '肯德基资源站': "XiangxiuNB",
     '网盘收藏': "yunpanshare",
-    '奥斯卡': "Oscar_4Kmovies",   
+    '奥斯卡': "Oscar_4Kmovies",
+    '豆豆': "dd115yun001",
 };
 
 
